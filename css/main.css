@@ -9,21 +9,28 @@ body {
 
 .wrapper {
   text-align: center;
-  margin-top: 20px;
+}
+
+.input-text {
+  text-align: center;
 }
 
 .default-theme {
+  margin-top: 20px;
   color:#8a97a0;
   background-color: #fff;
   border: 2px solid #e8eeef;
   padding: 15px;
   font-size: 16px;
-  width: 33%;
+  width: 50%;
   border-radius: 5px;
   outline: 0;
+  margin-bottom: 25px;
 }
 
-.flex-container {
-  text-align: center;
-  margin-top: 25px;
-}
+.inner-wrapper {
+  margin: 0 auto;
+  width: 70%;
+ }
+
+.lb-data .lb-close 
