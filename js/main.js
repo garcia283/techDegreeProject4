@@ -13,5 +13,5 @@ lightbox.option({
 
 // Add HideSeek plugin
 $('#search').hideseek({
-  attribute: "userData"
+  attribute: "title"
 });
